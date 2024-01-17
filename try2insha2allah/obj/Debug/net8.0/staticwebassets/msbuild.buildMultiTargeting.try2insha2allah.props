@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\try2insha2allah.props" />
+</Project>

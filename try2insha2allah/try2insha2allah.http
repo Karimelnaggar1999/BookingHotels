@@ -1,0 +1,6 @@
+@try2insha2allah_HostAddress = http://localhost:5254
+
+GET {{try2insha2allah_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
